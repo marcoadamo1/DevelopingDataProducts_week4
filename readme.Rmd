@@ -1,0 +1,13 @@
+---
+title: "readme"
+output: html_notebook
+---
+
+How to use the script:
+## Left panel:
+- Select a hair color between the possible choices: black, brown, red, blond
+- Select an eye color between the possible choices: brown, blue, hazel, green
+
+## Right panel:
+- Statistics: displays the chosen entries AND calculates the percentage of people that meet the criteria. The percentage is calculated against the whole data set (reactive)
+- Mosaic graph: graphically displays the whole population as a mosaic plot (non-reactive)
